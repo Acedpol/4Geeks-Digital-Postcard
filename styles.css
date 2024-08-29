@@ -6,11 +6,6 @@ body {
 	font-style: normal;
 }
 
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
-
 .postcard {
 	background: white;
 	width: 400px;
